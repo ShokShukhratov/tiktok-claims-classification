@@ -6,7 +6,7 @@ As part of the TikTok data team, I performed initial data inspection and prepara
 🛠️ Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy
-* [cite_start]**Framework:** PACE (Plan, Analyze, Construct, Execute) [cite: 3]
+* **Framework:** PACE (Plan, Analyze, Construct, Execute)
 
  📈 Key Insights
 * **Data Health:** Identified and documented 298 null values in engagement metrics.
